@@ -2,6 +2,11 @@
 
 A program whose purpose is to more efficiently manage a learning center.
 
+Uses `Java` for all functionality
+- Interacted with the user using JavaScanner
+- Processed inputted data to update schedules
+- Used data mapping and collection techniques
+
 ## Employees
 - Name
 - Availability
@@ -28,4 +33,5 @@ A program whose purpose is to more efficiently manage a learning center.
 
 ## Example - Instructor 
 
-<img width="539" alt="Screen Shot 2022-06-20 at 10 41 10 PM" src="https://user-images.githubusercontent.com/86504006/174705215-e26d2cdc-e767-4739-9fa2-ff7c992d6e34.png">
+<img width="475" alt="Screen Shot 2022-06-20 at 10 45 19 PM" src="https://user-images.githubusercontent.com/86504006/174705430-81c64387-3d39-4e4e-9000-bad6f79b24c3.png">
+
